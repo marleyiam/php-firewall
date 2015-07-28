@@ -29,4 +29,4 @@ IPs range spam denied
 IPs range protected
 PHP globals desctruction
 
-https://code.google.com/p/php-firewall/downloads/detail?name=PHP_Firewall_103.zip
+https://php-firewall.googlecode.com/files/PHP_Firewall_103.zip
